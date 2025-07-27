@@ -1,0 +1,15 @@
+[23:53:36] intro_to_python_programming % /bin/python3.11 /home/pratik/misogiai/python_assignments/intro_to_python_programming/Q14/temperature_conversion_functions.py
+Temp: 0
+Current Unit (C/F/K): c
+Convert Unit to (F/K/C): f
+32.00 F
+[23:53:42] intro_to_python_programming % /bin/python3.11 /home/pratik/misogiai/python_assignments/intro_to_python_programming/Q14/temperature_conversion_functions.py
+Temp: 32
+Current Unit (C/F/K): F
+Convert Unit to (F/K/C): k
+273.15 K
+[23:53:54] intro_to_python_programming % /bin/python3.11 /home/pratik/misogiai/python_assignments/intro_to_python_programming/Q14/temperature_conversion_functions.py
+Temp: 300
+Current Unit (C/F/K): K
+Convert Unit to (F/K/C): C
+27.85 °C

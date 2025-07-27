@@ -42,6 +42,9 @@ if __name__ == "__main__":
 # C = K − 273.15
 
 
+# [1] Add input validation for temperature and unit inputs using try/except.
+# [2] Replace unit string literals ('C', 'F', 'K') with Enum for safety and clarity.
+# [3] Implement a conversion map (dict of tuples) to support all unit combinations (C↔F, F↔K, etc.).
 
 
 

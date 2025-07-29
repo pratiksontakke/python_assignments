@@ -1,0 +1,5 @@
+[16:42:56] intro_to_python_programming % /bin/python3.11 /home/pratik/misogiai/python_assignments/intro_to_python_programming/Q19/multi_format_string_displayer.py
+My name is Pratik, I am 28 year old, and I live in Nagpur
+My name is Pratik, I am 28 year old, and I live in Nagpur
+My name is Pratik, I am 28 year old, and I live in Nagpur
+[16:42:59] intro_to_python_programming % 

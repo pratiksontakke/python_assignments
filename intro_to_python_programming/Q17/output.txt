@@ -1,0 +1,6 @@
+[16:04:02] intro_to_python_programming % /bin/python3.11 /home/pratik/misogiai/python_ass
+ignments/intro_to_python_programming/Q17/list_comprehension_converter.py
+normal_for_loop -> i : 0 | i : 1 | i : 2 | i : 3 | i : 4 | i : 5 | i : 6 | i : 7 | i : 8 | i : 9 | 
+conprehension_square -> [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+conprehension_even -> [0, 2, 4, 6, 8]
+conprehension_pair -> [(0, 0), (0, 1), (1, 0), (1, 1), (2, 0), (2, 1)]

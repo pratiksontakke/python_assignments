@@ -1,8 +1,7 @@
-[17:20:48] intro_to_python_programming % /bin/python3.11 /home/pratik/misogiai/python_assignments/intro_to_python_programming/Q20/lambda_function_library.py
+[17:26:07] intro_to_python_programming % /bin/python3.11 /home/pratik/misogiai/python_assignments/intro_to_python_programming/Q20/lambda_function_library.py
 square : [1, 4, 9, 16, 25]
 factorial : [1, 2, 6, 24, 120]
 reverse : [5, 4, 3, 2, 1]
 uppercase : ['PRATIK', 'SONTAKKE']
-filter_evens : [False, True, False, True, False]
+filter_evens : [2, 4]
 sum_of_list : 15
-[17:20:51] intro_to_python_programming % 

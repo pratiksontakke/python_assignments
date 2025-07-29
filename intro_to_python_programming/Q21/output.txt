@@ -1,0 +1,8 @@
+[17:29:33] intro_to_python_programming % /bin/python3.11 "/home/pratik/misogiai/python_assignments/intro_to_python_programming/Q21/higher_order_function_implementatio
+n copy 2.py"
+custom_map result: [2, 4, 6, 8]
+custom_filter result: [2, 4]
+custom_reduce result: 10
+[17:29:35] intro_to_python_programming % 
+
+

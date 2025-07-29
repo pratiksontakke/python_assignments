@@ -23,7 +23,7 @@ class LearningLambdaFunc:
         print(f"uppercase : {res}")
 
     def filter_evens(self):
-        res = list(map(lambda x:x%2==0, self.lst))
+        res = list(filter(lambda x: x % 2 == 0, self.lst))
         print(f"filter_evens : {res}")
 
     def sum_of_list(self):

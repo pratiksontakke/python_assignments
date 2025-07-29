@@ -1,0 +1,5 @@
+[16:28:16] intro_to_python_programming % /bin/python3.11 /home/pratik/misogiai/python_assignments/intro_to_python_programming/Q18/one_liner_challenges.py
+chag1 -> [4, 16, 36, 64, 100]
+chag2 -> ['HELLO', 'WORLD']
+chag3 -> 25
+[16:28:19] intro_to_python_programming % 

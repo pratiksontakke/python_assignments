@@ -1,0 +1,33 @@
+[15:25:26] intro_to_python_programming % /bin/python3.11 /home/pratik/misogiai/python_assignments/intro_to_python_programming/Q15/modular_program_design.py
+
+Type 1 to add a book
+Type 2 to search for a book
+Type 3 to view all books
+Type 4 to exit
+>> 1
+Enter book name to add: LangChain by P.A.Sontakke
+Book 'LangChain by P.A.Sontakke' successfully added.
+
+Type 1 to add a book
+Type 2 to search for a book
+Type 3 to view all books
+Type 4 to exit
+>> 2
+Enter book name to search: LangChain by P.A.Sontakke
+Book 'LangChain by P.A.Sontakke' is available in the library.
+
+Type 1 to add a book
+Type 2 to search for a book
+Type 3 to view all books
+Type 4 to exit
+>> 3
+Books in the library:
+- LangChain by P.A.Sontakke
+
+Type 1 to add a book
+Type 2 to search for a book
+Type 3 to view all books
+Type 4 to exit
+>> 4
+Exiting... Thank you!
+[15:25:40] intro_to_python_programming % 

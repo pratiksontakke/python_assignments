@@ -1,0 +1,19 @@
+[15:39:44] intro_to_python_programming % /bin/python3.11 /home/pratik/misogiai/python_assignments/intro_to_python_programmin
+g/Q16/user_input_validator.py
+Enter your age (1-120)? abc
+Invalid input. Please enter a valid number.
+[15:39:57] intro_to_python_programming % /bin/python3.11 /home/pratik/misogiai/python_assignments/intro_to_python_programming/Q16/user_input_validator.py
+Enter your age (1-120)? 0
+Out of range. Please enter a number between 1 and 120.
+[15:40:03] intro_to_python_programming % /bin/python3.11 /home/pratik/misogiai/python_assignments/intro_to_python_programming/Q16/user_input_validator.py
+Enter your age (1-120)? 23
+Valid age entered: 23
+[15:40:09] intro_to_python_programming % /bin/python3.11 /home/pratik/misogiai/python_assignments/intro_to_python_programming/Q16/user_input_validator.py
+Enter your age (1-120)? 999
+Out of range. Please enter a number between 1 and 120.
+[15:40:12] intro_to_python_programming % /bin/python3.11 /home/pratik/misogiai/python_assignments/intro_to_python_programming/Q16/user_input_validator.py
+Enter your age (1-120)? ghgjn
+Invalid input. Please enter a valid number.
+[15:40:16] intro_to_python_programming % /bin/python3.11 /home/pratik/misogiai/python_assignments/intro_to_python_programming/Q16/user_input_validator.py
+Enter your age (1-120)? 
+Invalid input. Please enter a valid number.
